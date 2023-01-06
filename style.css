@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Outfit', sans-serif;
-    background-color: hsl(283, 77%, 34%);
+    background-image: url(images/matrixteme.gif);
     min-height: 100vh;
     display: flex;
     align-items: center;
